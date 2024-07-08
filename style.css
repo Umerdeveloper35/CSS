@@ -1,0 +1,21 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+p{
+    color: rgb(0, 68, 255);
+    background-color: burlywood;
+    text-align: center;
+}
+ol{
+    color: rgb(0, 68, 255);
+    background-color: burlywood
+}
+ul{
+    color: rgb(0, 68, 255);
+    background-color: burlywood;
+}
+h2{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
